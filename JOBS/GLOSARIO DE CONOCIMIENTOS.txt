@@ -1,0 +1,40 @@
+CIENTIFICO DE DATOS
+
+DOCKER
+
+ETL	Extract Transform and Load(referido a QA, cientificos de datos, Big data experts, 
+	analiticos de datos)
+
+	softwares que tienen el objetivo de extraer datos de diferentes sistemas, transformarlos
+	segun las necesidades de la empresa y, finalmente cargarlos en algun lugar de almace_
+	namiento(un data warehouse). En si su objetivo es la integracion de datos generados
+	generados por distintos sistemas.
+
+		extraccion
+		trasnformacion(limpieza)
+		carga de datos(o entrega)
+		
+	ETL trabaja con otro conjunto de herramientas de integracion/administracion:
+		Data Governance, Data Quality
+
+	TECNICAS EMPLEADAS POR ETL:  SQL, DATA MAPPING, SCRIPTS, DATA VIRTUALIZATION
+					ETC
+
+MONITOREO DE BASES DE DATOS
+
+	identifica 
+
+	
+
+
+SASS	preprocesador CSS que permite generar de manera automatica hojas de estilo
+	agrega caracteristicas que no tiene css, que son propias del lenguaje de programacion
+
+	
+		
+SCCM
+
+	herramienta de windows para administrar equipos
+	control de equipos y actualizacion de los mismos de manera remota
+
+SSH

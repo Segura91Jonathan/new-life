@@ -1,0 +1,142 @@
+INSTRUMENTOS DE INVERSION		RIESGO
+
+	pagare bancario			BAJO
+	cetes				BAJO
+	bonos gobernamentales		BAJO
+	seguros de inversion		BAJO
+	seguros dotales			BAJO
+	mercado de divisas			MEDIO
+	fondos de inversion		MEDIO
+	fondos de fondos			MEDIO
+	mercado inmoviliario		MEDIO
+	mercado accionario		ALTO
+
+se clasifican por:
+
+rendimiento promedio
+nivel de riesgo
+horizonte
+
+.Se elige el instrumento de inversion de acuerdo al nivel de riesgo que manejan
+
+ACCIONES
+
+	parte del capital social de una empresa
+	se perciben ganancias de la compra/venta  de las mismas
+	o del cobro de dividendos.
+
+OBLIGACIONES NEGOCIABLES
+
+	titulos de deuda emitida por una entidad privada cuando necesita  fondos.
+	La empresa en cuestion se compromete a cancelar la deuda en un plazo pactado con
+	el interes correspondiente
+
+	Si este instrumento la utiliza el estado  se llama  bono o titulo publico
+
+
+	amortizaciones: cuotas anuales o semestrales mediante las cuales se devuelve el
+	capital con un interes generado en taza fija o variable(pago de la renta)
+
+
+	DIFERENCIA CON LA ACCION
+	
+		al comprar acciones el inversor pasa a ser dueño de una parte
+		al comprar obligaciones  el inversor pasa a ser acreedor de la deuda
+	
+		advantages: pago en fecha estipulada
+
+
+CHEQUES DE PAGO DIFERIDO
+
+	Se emiten para pagar deuda a largo plazo(maximo 1 año). La oportunidad de inversion
+	esta en poder comprar estos cheques de pago diferido en los mercados primarios o
+	secundarios a un costo menor  para luego cobrar en la fecha estipulada de cobro
+
+TITULOS PUBLICOS(BONOS)
+
+	related: taza fija, taza variable, taza mixta
+
+	oblicaciones negociables emitidas por el gobierno o entidad gobernamental
+
+	el estado se compromete a devolver el capital en un tiempo estipulado
+
+	Los bonos pueden devolver el dinero invertido en cuotas llamadas AMORTIZACIONES
+	o en forma integra al vencimiento
+
+
+FIDEICOMISOS FINANCIEROS(fiduciario = entidad financiera autorizada)
+	
+	beneficiarios: titulares de certifiados de participacion en el dominio fiduciario
+
+			titulos representativos de deuda garantizados con los bienes 
+			transmitidos
+
+	related: colocador, auditor, asesor legarl, calificadora de riesgos,organizador,
+	colocador
+	Valores de Deuda Fiduciaria (VDF)
+
+	fiduciante, fiduciario, contrato de fideicomiso
+
+	instrumento financiero que le permite al inversor participar de un proyecto.
+	Mediante la compra de valores representativos 
+
+	Este instrumento permite que parte del patrimonio sea separado de los activos con
+	el fin de que no se vea afectado por acreedores
+
+	fiduciante: entrega bienens al fiduciario para que los administre para un determinado
+	fin, para su beneficio o beneficio de los beneficiarios.
+
+	PARTES: fiduciante: quien da los bienes al fiduciario
+
+		fiduciario: recibe los bienes, resposable de la administracion
+		
+		beneficiario: titulares de los valores representativos de deuda
+
+		fideicomisario: el que se queda con la propiedad de los bienes al vencimiento
+				de los mismos derechos y obligaciones similes a las de 
+				los beneficiarios
+
+		colocador: se encarga de la distribucion de los titulos de deuda
+
+		organizador: encargado de la concrecion del fideicomiso: hace de nexo de la
+			totalidad de las partes involucradas
+
+		Depositario: tiene toda la documentacion respaldatoria cedidos al
+			fideicomiso
+
+		agente de cobro: fiduciante
+
+		asesor legal: 
+
+		auditor: quien se encarga de los balances: los fideicomisos deben presentar 
+			balances trimestralmente
+
+
+		Rentabilidad: dadas en el prospecto de emision
+				tazas de interes , estructura de pago, niveles de riesgos
+
+		calificacion de riesgos 	
+
+PREGUNTAS: 
+
+como saber la rentabilidad de los instrumentos
+como saber si una accion paga dividendos y en que tiempo los paga
+
+calificacion de riesgo: que activos tienen esta calificacion  ?
+
+diversificar si o no?
+
+donde comprar los cheques de pago diferido ? 
+
+que riesgo existe al comprar los cheques de pago diferido
+
+¿Que bonos hay en la actualidad ?
+
+¿Como comprar y vender  bonos del gobierno ? 
+
+¿Cuanto es lo minimo que puedo invertir en estos instrumentos financieros?
+
+¿Como se leen los balances de los fideicomisos ?, ¿ y de los otros intrumentos publicos ?
+
+¿Donde comprar lo relacionado al fideicomiso?
+

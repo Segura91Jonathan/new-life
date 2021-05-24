@@ -1,0 +1,47 @@
+
+
+	TECNOLOGIAS DE FRONT END
+
+	
+
+HTML5/CSS3/JS
+
+TypeSCRIPT
+NEXT JS
+
+SASS
+
+
+responsive	react/ANGULAR/VUE JS/ionic
+
+tailwind
+boostrap
+-----------------------------------------------------
+
+GIT
+JIRA
+
+--------------------------------------------------------
+pruebas e2e para componentes y posterior
+ejecucion en PROTRACTOR o simil
+
+--------------------------------------------------------
+NODE js
+
+java1.8
+PHP
+python, DJANGO
+visual basic
+
+asp
+MYSQL
+postgre sql
+
+
+pwa
+MVC
+
+MICRO FRONTENDS
+-------------------------------------------------------
+
+UX UI

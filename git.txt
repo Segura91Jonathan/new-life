@@ -1,0 +1,23 @@
+comandos git bash
+
+pwd 	: me muestra donde estoy
+cd .. 	: me vuelve atras en el directorio
+cd -- 	: me pone en el comienzo C/Usuarios/nombreUsuario
+cd carpeta : me pone en la carpeta que tengo, si tiene espacios poner entre comillas
+mkdir	: crea una carpeta en donde me encuentre parado en el directorio 
+	  se recomienda no poner espacios
+
+
+
+
+
+BOTON / COMBINACION DE BOTONES
+
+boton tab	: autocompleta
+ctrl + l 	: limpia la pantalla
+
+
+COMANDOS DE GIT
+
+
+git clone link	: donde estemos posicionados clona la carpeta

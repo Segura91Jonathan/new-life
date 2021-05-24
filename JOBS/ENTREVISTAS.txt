@@ -1,0 +1,187 @@
+19/5/21
+		PWC: mercedes - llamada telefonica
+
+				psico tecnico a cargo de Diego Soto via online
+
+				turno para preocupacional en MEGA  para el lunes 
+				24/5/21 a las 12:10
+
+				8 hs de ayuno
+				2 de retencion de liquidos
+				DNI
+				MEGA: peron 1558
+
+				Se va a volver a hablar de la propuesta post
+				preocupacional
+
+			
+
+	
+
+
+		SERVICIOS COMPUTABLES	entrevista por video llamada
+		
+		puesto: dba jr
+
+		investigacion:	empresa dedicada al desarrollo de software para uso 
+				municipal y otras entidades relacionadas con el gobierno	
+	
+				SUGIT sistema que interconecta registros seccionales
+					de la propiedad del automotor
+				SUCERP: relacion de la base de datos del impuesto a la
+					radicacion de automotores
+
+				direccion : gral guemes 921
+
+
+				MYSQL/SQL SERVER
+
+				.velar por la continuidad operacional de las bases de 					datos
+				.responsable de certificar los planes de mantencion y 
+				respaldo de las bases de datos
+				.verificar el cumplimiento de las buenas practicas de 
+				programacion interna que consumen a las bases de datos
+				.Realizar un despliegue de cambios de las bases de datos
+				resolviendo incidencias relacionadas con la DB
+				.Mantener el servidor y los discos que esten alojados 				dentro de los motores de DB 
+				.Construir reportes e instalar nuevos monitores de DB
+				o complementar a estos
+
+				.realizando monitoreo de la base de datos Mysql y sql
+				server
+				.revision diara de los estados de salud de la DB
+				.generar informes con incidencias relacionadas DB
+ 
+	
+
+18/5/21
+
+	PWC	entrevista por video llamada
+
+		puesto : mesa de ayuda/ soporte
+		
+		descripcion del puesto
+		
+			solucion de incidencias con respecto a empleados internos de la 
+			empresa, en idioma ingles y español. Referido mas especificamente
+			a equipos de notebooks.
+
+		ofrecen prepaga(averiguar), descuentos, tarjetas 365 y similes, convenios
+		con universiodades, capacitacion constante. 
+
+		descuentos en cursos
+		
+
+13/05/21
+
+
+	SERVICIOS COMPUTABLES
+
+		PUESTO: DBA JR
+
+			desplegar bases de datos
+			reportes
+			instalar bases de datos
+			
+		entrevistadora: SABRINA	
+
+		ingreso directo en caso de  entrar
+
+
+	PWC (empresa de auditoria y consultoria SIMIL EY)
+
+		PUESTO: soporte tecnico remoto
+
+		entrevistadora: SABRINA
+
+		mandan test en ingles que se entrega
+
+
+
+
+	NCR (ENTREVISTA POR TEAMS DE microsoft)
+
+	puesto: soporte tecnico en lugar de cajeros automaticos
+
+	entreveistador/es : DOMINGO SCACERRA y LEO (supervisor de zona norte)
+			(TEAMS video llamada)
+
+
+			lun - viernes  9 - 18  posibilidad de extenderse los fines de semana
+		
+			se aclara que  el turno de la noche es para estudiar
+
+			se reitera lo de los 4 reportes por dia como minimo. Capacitacion 				mientras no hayan incidentes
+
+			deployment de software 
+
+			mantenimiento correctivo
+
+			mantenimiento preventivo
+
+	en las 2 siguientes semanas siguen con el proceso de seleccion
+	
+	comienzo del trabajo aproximado : principios de JUNIO
+
+	NO OLVIDAR LO DE LOS VIATICOS
+	
+
+
+
+	NCR(que atiende a PRODUCIR INTEGRAL )(cajeros automaticosg)
+
+	puesto: soporte tecnico en lugar de cajeros automaticos
+
+	entrevistador@ : DOMINGO SCACERRA(llamada)
+
+	financiera retail
+
+	propuesta:	lun - viernes 9-18 posibilidad de extenderse a fines de semana
+			
+			idea de atender de 3 a 4 incidentes por dia 
+
+			manejo de tickes
+
+			no se habla del tema plata
+
+
+12/05/21
+
+	PRODUCIR INTEGRAL	(cajeros automatico)
+
+	entrevistadora: ROMINA
+
+	propuesta:	mantenimiento de cajeros automaticos en cuanto a soft y hard
+			en lugar en todo zona norte.
+
+			lunes - viernes 9-18, posibilidad fines de semana con horas
+			extras pagas
+
+			40000 x mes mas viaticos 
+
+			x 6 meses con posibilidad de renovacion x otros 6 meses
+
+	proxima entrevista:
+
+			con domingo estazerra
+
+	
+
+4/5/21
+
+	DXC technology(Ex sigenta Ex HP)
+
+	puesto :	soporte tecnico L2
+
+	entrevistador: Pablo Navello
+
+	propuesta	soporte tecnico en sitio con llamadas telefonicas
+			en VICENTE LOPEZ cuando termine la pandemia 
+
+			avenida livertador 1855 olivos
+
+			contratacion directa
+
+			1° de junio
+
+			lunes a viernes de 8-17

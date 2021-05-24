@@ -1,0 +1,69 @@
+DEFINICION
+
+	compra y venta de activos en el mercado financiero
+
+
+MERCADO:
+	forex :   currency
+	stocks 
+	futuros
+	derivados
+	criptomonedas
+
+CONSISTE EN COMPRAR BAJO Y VENDER CARO
+
+Se hace mediante un intermediaro o broker
+
+		comisiones ?
+		spreads
+
+servicios del broker:
+	
+	cuentas demo: dinero ficticio
+
+
+diferentes plataformas: web mobile, etc
+
+apalancamiento:
+
+	prestamo del broker para operar con mayor capital
+
+DEPOSITOS Y RETIROS
+
+------------------------------------------------------------------------------------------------------------------------------
+2021	giselle colasurdo
+
+	relacion entre el dolar y las tazas de interes	
+
+	debilitamiento del dolar: 
+
+	relacion inversa entre el precio del dolar y los comodities
+
+	inversiones agresivos: variaciones bruscas en los precios	
+
+	FONDOS COMUNES DE INVERSION
+
+		premier comodities (supervielle) ver rendimientos como ver el rendimiento
+
+		pelegrini agro	(banco nacion)
+
+	CDAs Certificados que representan acciones de empresas del exterior que se negocian
+		en la bolsa local en pesos
+
+		BARRICK GOLD ( se invierte en la compañia minera)
+
+		VALE(BR) 
+
+		PETROBRAS(BR)
+
+		US STEEL CORPORTATION() 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+IDEAS DE GRANDEZA
+
+	acciones de crecimiento:  como ver, como comprar, etc
+
+				empresas que cotisan en bolsa o empresas privadas
+
+	acciones de dividendos		

@@ -1,0 +1,94 @@
+20210518 need to make a introductioin letter
+
+
+
+20210425 NEED TO MAKE A ENGLISH RESUME   
+	now we have a 1st version
+
+
+
+ACCENTURE
+
+	!$Acc1008
+
+GLOBANT
+
+	!$Glo1008
+	
+
+TECHINT
+
+	!$Tec1008
+
+EXXONMOBIl
+
+	!$Exo1008
+
+LOREAL
+	
+	!$Lor1008
+
+
+PWC
+
+	!$Pwc1008
+
+
+NEORIS
+
+	!$Neo1008
+
+
+PUIG
+
+
+
+	
+
+--------------
+PORTALES
+--------------
+JOB LEADS
+
+	!$Job1008
+
+COMPUTRABAJO
+
+	!$Com1008
+
+Indeed
+
+	!$Ind1008
+
+Bumeran
+
+	!$Bum1008
+
+JOBOMAS	
+	
+	!$Job1008
+
+GRABJOBS
+	
+	!$Gra1008
+
+
+ARCHIVOS EXTRA APARTE DEL CV ? 
+
+	como una carta de recomendacion ? que mas ?
+
+
+Buenos dias.
+
+Me llamo Jonathan Segura y quisiera escuchar mas acerca de la oferta.
+
+Dejo adjunto mi curriculum y quedo a la espera de su respuesta.
+
+Gracias desde ya.
+
+Segura Jonathan
+
+
+
+
+https://www.linkedin.com/in/jonathan-segura-39109965/

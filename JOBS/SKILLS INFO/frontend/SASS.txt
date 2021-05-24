@@ -1,0 +1,36 @@
+INFO ACERCA DE SASS
+
+	precompilador
+
+	se necesita un compilador
+	
+	archivos scss
+
+	posibilidad de usar variables: tanto para colores por ejemplo.
+
+
+	NESTING
+	posibilidad de anidar caracteristicas: ejemplo con las listas: en ves de tener
+	todo separado podemos anidarlo dentro: UL{ caracteristicas, LI{caracteristicas, a{...}}}
+
+	NESTING DE PROPIEDADES
+
+	POSIBILIDAD DE FRAGMENTAR ESTILOS
+	
+		archivo: _menu.scss
+		archivo central: styles.scss  // y trae con un @import "menu"
+ 		los estilos del archivo
+
+	MIXING
+
+	agrupo propiedades(@mixing mixingName: propiedades) y luego las aplico en cada
+	uno de los elementos(dentro del elemento con @include mixingName)
+	
+	se puede parametrizar el mixing
+
+
+	OPERADORES
+
+	posibilidad de hacer cuentas dentro de las caracteristicas (para hacerlo responsive
+	por ejemplo)
+		

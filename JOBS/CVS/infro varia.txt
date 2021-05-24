@@ -1,0 +1,41 @@
+ANTES DEL 2017
+
+EMPRENDIMIENTO FAMILIAR, con familia (restaurante con tio)
+SOBRE MI
+
+Estudiante de ingenieria en sistemas. Cursando 3er año de la carrera. Actualmente desarrollando tareas de consultoria en cuanto a equipos tecnologicos y solucionando problemas internos de la empresa respecto a temas realcionados. Siempre investigando acerca de las ultimas tecnologias y con gran capacidad para trabajar en equipo sin importar la problematica se encuentra una solucion.
+
+-------------------------------------------------------------------------------------------------------------------------------
+POSTULACION GMAIL
+
+Buenas noches. Me llamo Jonathan Segura y busco desarrollar mis habilidades como desarrollador a la par de seguir aprendiendo mas acerca del desarrollo en ambientes reales. Estoy cursando 3er año de la carrera de ingenieria en sistemas en la UTN -FRBA. Me considero una persona con empatia y capacidad de escucha, proactivo y resiliente.
+
+Dejo adjunto mi curriculum y desde ya gracias por la oportunidad.
+
+Segura Jonathan
+
+-------------------------------------------------------------------------------------------------------------------------------
+INFO PARA MANDAR SOBRE GMAIL
+
+Buen día Jesica,
+Mi nombre es xxxxx y estoy en búsqueda laboral, dejo un resumen de mis conocimientos y experiencia:
+Soy estudiante Ingeniería en computación, también estudié en Digital House en la cual obtuve la certificación de Desarrollador Web Fullstack, además sigo estudiando Java en plataformas online como Platzi o Udemy, soy autodidacta y creativo, me gusta aprender nuevas tecnologías e investigar.
+Mi experiencia en desarrollo es de 1 año, empece trabajando por 6 meses en un proyecto integrador en el marco de la academia, éste es el enlace a la página web que desarrollé: xxxxx
+Si bien aun hay cosas que mejorar y en el proceso de hacer el deployment ocurrieron algunos bugs (Hay algunas imágenes que no se ven), obtuve bastante experiencia ya que desarrollamos la página desde el Frontend armando toda la estructura y diseño hasta el Backend con php donde trabajé con laravel como framework, la página ademas cuenta con una Base de Datos relacional la cual la creamos diseñando un UML y luego interactuamos mediante MySQL.
+Después empecé a trabajar como freelancer, les dejo un enlace a mi repositorio de Github donde podrán ver todos mis proyectos:
+Ir al repositorio.
+Estas son las tecnologías con las que tengo experiencia:
+HTML
+CSS, Grid layout
+Materialize
+Javascript
+Base de datos
+MySQL
+MySQL Workbench
+OOP (Programación orientada a objetos)
+Git
+Patrón de arquitectura MVC
+Metodologías Ágiles — Scrum
+Terminal de Comandos
+Inglés intermedio
+Saludos.

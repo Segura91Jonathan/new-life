@@ -1,0 +1,104 @@
+EXCEL PARA  FREELANCE: APRENDIZAJE
+
+POWER BI (aplicacion de microsoft) y excel
+	power query, power view, y power pivot
+
+
+MACROS
+	
+CH7	MANEJO DE LA INSTRUCCION ELSE
+CH6	MANEJO DE LA INSTRUCCION AND
+CH5	MANEJO DE IF Y THEN
+CH4	ESTRUCTURA DEL EDITOR DE VBA pt2
+CH3	ESTRUCTURA DEL EDITOR VBA
+CH2 	APRENDER A MANEJAR LA GRABADORA DE MACROS
+
+	ANTE todo tener habilitado la pestaña de desarrollador / programador
+		archivo-> opciones->personalizar cinta de opciones -> habilitar la pesatña
+
+	en la pestaña de programador: (opcion) GRABAR MACRO
+
+	antes de grabar una macro , cambiar el formato del archivo :
+		
+		formato normal: 		xlsx
+		formato para macros: 	xlsm :	(en guardar como)
+
+	
+	Ejercicio 1: boton grabar macro, 
+			nombre primer letra en mayuscula
+			combinacion de teclas
+			donde guardar la macro( libro de macros personal queda guardada
+						en la PC)
+			descripcion: texto libre
+
+		LISTO AHORA CON ESA COMBINACION DE TECLAS HAGO ESAS COSAS SOLO
+		PARA ESE LIBRO
+
+	EJERCICIO 2: grabar en un boton filtrado y con otro que quite los filtros
+
+		al boton de grabar macro tanto como para el de filtrar como para el de sacar
+		filtro no se les pone atajo de teclado
+
+
+	EJERCICIO 3: grabar macros para ordenar por sucursal y por apellido
+
+	EJERCICIO 4: inicio formato condicional
+
+
+
+	INICIO-> FORMATO CONDICIONAL-> NUEVA REGLA->
+	->(opcion) utilice una formula que determine las celdas para aplicar el formato
+
+		marcar toda la tabla para hacer el formato condicional
+
+
+	EJERCICIO 5: proteccion a un conjunto de celdas
+
+		para aplicar proteccion en una hoja, debemos aplicar el bloqueo de celdas
+
+		elegimos toda la hoja y destildamos la opcion de bloqueo(desbloqueamos) la 			hoja
+
+		hay que bloquear celdas
+		desbloqueamos toda la hoja
+		elegimos toda la tabla
+		bloqueamos las celdas de la base de datos(tildamos la opcion de bloqueo)
+
+		para proteger:
+
+		REVISAR->proteger
+		REVISAR-> desproteger
+	
+
+	EJERCICIO 6: referencia relativa hacia la macro (vamos a reutilizar la macro)
+
+		con ctrl+shift+F deberemos poder aplicar el formato a toda la tabla
+
+		DESARROLLADOR: debemos tener el boton de referencias relativas activado
+
+		Ctrl+shift+* para seleccionar toda la tabla (solo nos debemos ubicar al medio
+		de la tabla y seleccionar con el atajo para poder hacer el uso de la macro)
+
+
+		
+
+CH1
+	son un conjunto de instrucciones que se ejecutan de manera secuencial por medio
+	de una orden de ejecucion
+
+	una macro puede invocar a otras, logrando de esta formna obtener operaciones
+	cada vez mas complejas
+
+	El lenguaje empleado para la creacion de macros es VBA(visual basic para aplicaciones)
+
+	Excel cuenta con un editor de VBA para la creacion y/o mantenimiento de las macros
+
+	Se cuenta con una grabadora que permite crear una macro sin escribir codigo
+
+
+	LAS MACROS EN EXCEL PERMITEN LA AUTOMATIZACION DE TAREAS REPETITIVAS
+	ejemplo: creacion de misma tabla dinamica pero con distintos datos
+
+	LAS MACROS EN EXCEL SIRVEN PARA GENERAR RESULTADOS EN FORMA AUTOMATICA
+	EN UNA HOJA, sin necesidad de escribir formulas o funciones en las celdas
+
+	PERMITEN CREAR FUNCIONES PERSONALIZADAS
