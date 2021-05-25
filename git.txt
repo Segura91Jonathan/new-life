@@ -29,3 +29,16 @@ git commit -m "mensaje"	: prepara los cambios para subir
 UTILIDADES
 
 llave SSH
+
+
+PROBLEMAS:
+
+problema al subir nuevamente una carpeta a github desde git
+
+RAIZ DEL PROBLEMA:
+
+	llave ssh puesta en el curso de github
+
+SOLUCION:
+	
+	eliminar la credencial desde las credenciales de windows
