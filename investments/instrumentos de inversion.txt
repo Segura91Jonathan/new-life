@@ -117,6 +117,82 @@ FIDEICOMISOS FINANCIEROS(fiduciario = entidad financiera autorizada)
 
 		calificacion de riesgos 	
 
+
+CEDEARS(CErtificado de DEposito Argentino)
+
+	instrumentos de inversion. Posibilidad de invertir en pesos en acciones que cotizan
+	en dolares (apple mc donalds etc)
+
+	instrumentos con operatoria local, que representan acciones en el exterior
+
+	retornos de la accion y cobertura contra el tipo de cambio (sube el dolar entonces sube
+	lo que vale el cedear)
+
+	no siempre es equivalente un cedear a una accion
+	( por ejemplo 10 cedear de apple es una accion de apple)
+
+	
+
+	
+
+	CONTRAS
+
+		riesgo que contiene invertir en acciones
+
+		poca liquides en el mercado
+	
+
+OPERACIONES A PLAZO
+
+	prestamos de valores, pases y cauciones, Derivados: futuros y opciones
+
+	prestamos de valores
+
+		transferir las acciones para que luego le retornen las acciones con los
+		derechos que se originen durante la vigencia del contrato
+
+	Pases y cauciones (averiguar mas)
+
+		desprendimiento de forma temporal de acciones para adquirir capital a 
+		corto plazo o para invertir en los mismos mediante este tipo de operatoria
+		a cambio de un rendimiento o tasa fija de intereses
+
+		PASE (CAUCION) BURSATIL(ver mas)
+
+		colocador, tenedor
+
+		para el colocador el beneficio es una taza fija de interes que paga el tenedor
+
+			
+			el inversor pacta en una misma operacion venta y compra de
+			sus acciones, no goza de los dividendos que estas generan 
+			mientras dure el contrato. Es una forma de obtener dinero rapido
+			sabiendo a que precio se compra despues
+				(actua como un futuro)
+					
+
+
+	DERIVADOS: FUTUROS Y OPCIONES
+
+		activos financieros que dependen de la cotizacion, evolucion y precio de otro 		activo en concreto.
+
+		ejemplo: compra de maiz a futuro a un precio pactado: 
+			activo subyacente: maiz 
+			contrato derivado: acuerdo llegado con el productor
+
+		OPCIONES
+
+			opciones de compra (CALL)
+
+				derecho de comprar un activo en el futuro				
+
+			opciones de venta (PUT)
+
+				derecho a vender un activo en el futuro
+
+		FUTUROS	(ver mas)
+
+
 PREGUNTAS: 
 
 como saber la rentabilidad de los instrumentos
@@ -140,3 +216,29 @@ que riesgo existe al comprar los cheques de pago diferido
 
 ¿Donde comprar lo relacionado al fideicomiso?
 
+¿Como comprar CEDEAR ? 
+
+¿Cual es la diferencia entre CEDEAR Y ACCIONES ? 
+
+si el CEDEAR  tiene ese seguro contra el tipo de cambio ¿porque compraria acciones ?
+
+¿Como saber que cedear comprar ?
+
+¿Como ver las equivalencias de cedears / acciones ?
+
+¿Cauciones vs Plazo fijo?
+
+¿TAZAS?
+
+SEGURIDAD/ RENTABILIDAD
+
+DIFERENCIAS ENTRE FUTUROS Y OPCIONES
+
+¿La prima se descuenta del precio pactado o se cobra como un extra ?
+
+¿Al vencer el plazo si no se paga la prima que sucede ?
+
+
+¿Que activos subyacentes hay para trabajar con derivados ?
+
+¿Cual es el tiempo o plazo minimo para ejercer el derecho ?

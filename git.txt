@@ -21,3 +21,11 @@ COMANDOS DE GIT
 
 
 git clone link	: donde estemos posicionados clona la carpeta
+
+git add .			: añade todos los cambios
+git commit -m "mensaje"	: prepara los cambios para subir
+
+
+UTILIDADES
+
+llave SSH

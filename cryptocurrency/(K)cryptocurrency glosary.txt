@@ -1,0 +1,40 @@
+
+
+ARBITRAJE DE CRIPTOMONEDAS / movimientos muy grandes en el pais
+
+BLOCKCHAIN:
+
+	cadena de bloques de informacion
+	3 cosas : la info, hash(id bloque) hash bloque anterior
+
+	mas usos a parte del bitcoin
+
+	sistema de almacenaje de informacion fuera del almacenaje convencional
+
+	cada usuario tiene una copia de la blockchain por lo cual hace imposible que
+	modificando solo tu base puedas cambiar algo
+
+DAPP 	: aplicaciones descentralizadas (que hacen uso de la blockchain)
+
+ICO	: Oferta inicial de monedas
+
+
+
+FEATURES:(bitcoin)
+
+
+	ESCASES(LACK)
+	SECURITY(double encript)
+	DESCENTRALIZACION(no emitido por ningun banco)
+	ANONIMATO 
+
+.comprar el bitcion dispuesto a perder
+.no comprar bitcion a corto plazo(pensar a medio y a largo) problemas con la justificacion
+.compra de bitcion p2p binance o airtm
+.HOLD guardar en una billetera fria(USB) o tibia al menos (exodus, coinomi), no dejarlos en un 
+	EXCHANGE o en una plataforma de inversion
+
+.No ingresar los bitcoin al pais mediante un exchange y del exchange al banco
+.En lugar de exchange y banco tradicional a ATM
+	traer de forma mesurada a travez de P2P, financiera o de una persona que quiere
+	comprar cripto

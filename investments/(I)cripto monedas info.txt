@@ -1,0 +1,95 @@
+GLOSARY
+
+BILLETERAS FRIAS TIBIAS CALIENTES
+
+BLOCKCHAIN
+
+CBDC: 	Central Bank Digital Currency (Monedas emitidas por los bancos centrales)
+	NO. PELIGROSO
+
+
+WITHDRAW: retiros de forma regular
+
+
+
+TECNICAS
+
+TRADING
+SCALPING related with cryptocurrency
+
+
+	
+	
+MINERIA
+ARBITRAJE en criptomonedas
+
+	
+
+	trazabilidad del dinero = que sea rastreable para la afip
+
+	al meter el dinero al mundo cripto pierde la trazabilidad
+
+
+	recomendaciones generales : 
+	
+	-atomizacion de cuentas(ir quemandolas de a 1:
+
+	bru bank, mercado pago, cuenta bancaria, etc) no recomendable
+
+	- hacerse monotributista: emitir facturas por el tope de la facturacion mensual
+	
+	para respaldar tus ganancias
+
+	- no operar en pesos  y no meter y sacar constantemente el dinero al sistema en pesos
+
+	NO BAJAR LAS GANANCIAS EN PESOS
+
+	CRIPTOSAURIO
+
+
+¿Que criptomonedas hay ?
+
+
+	plataformas para desarrollar proyectos blockchain (criptomonedas)
+
+	NEO
+
+	ETHEREUM
+
+
+	COINMARKETCAP
+	
+		2100 en total
+
+
+
+
+criptotario.com EJEMPLO DE ANALISIS
+	1) de cada moneda : DAPPS, asociaciones, ICO
+	2) lista de contribuyentes  y como se realacionan ( DAPP asociacion ICO)
+
+		ejemplo  Elastos (ELA)
+	3) resumen del proyecto
+	4) incluir informacion relevante (fuentes acerca del  proyecto)
+
+		ejemplo Ontology(ONT)
+
+	 	(PENSAR EN UN FODA)
+
+	5) Realizar el mismo proceso(paso 1 al 4) para otros contribuyentes
+
+		Ejemplo City of Zion (CoZ)
+
+	6) Agregar puntos importantes del whitepaper
+
+	7) Realizar un analisis propio del proyecto y su potencial
+
+	8) Incluir los eventos pasados y proximos junto con sus fechas
+
+	9) Enlaces de noticias y articulos importantes
+	
+	10) Agregar la hoja de ruta del proyecto
+
+QUESTIONS
+
+Difference between crypto currency and digital mone (CBDC)

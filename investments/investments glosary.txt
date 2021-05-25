@@ -11,6 +11,11 @@ ACCIONES(STOKS)
 
 ACTIVO SUBYACENTE
 
+	activos financieros que dependen de la cotizacion, evolucion y precio de otro activo
+	en concreto.
+
+		
+
 BONOS GOVERNAMENTALES
 
 CALIFICACION DE RIESGO
@@ -19,6 +24,9 @@ CALIFICACION DE RIESGO
 	capacidad del emisor de honrar a los pagos de la renta
 
 CEDEARES
+
+	certificados de deposito argentino. Instrumento con moneda local pero que cotiza
+	afuera.
 
 CEVAS
 
@@ -30,6 +38,9 @@ CHEQUES DE PAGO DIFERIDO
 	Plazos de 45, 60, 90 hasta 365 dias
 
 	
+CNV
+
+COMMODITIES
 
 DERIVADOS:
 
@@ -41,6 +52,8 @@ DIVERSIFICACION
 	en un solo instrumento
 
 
+DINERO FIDUCIARIO
+
 FIDEICOMISOS FINANCIEROS
 
 FONDO DE INVERSION
@@ -48,6 +61,13 @@ FONDO DE INVERSION
 FONDOS COMUNES DE INVERSION
 
 FONDOS LIQUIDOS
+
+	efectivo de disponibilidad inmediata(en todas sus formas)
+
+FUTUROS
+
+	FUTUROS FINANCIEROS
+	FUTUROS SOBRE COMMODITIES
 
 GARANTIA REAL
 
@@ -76,6 +96,16 @@ OBLIGACIONES NEGOCIABLES
 
 OPERACIONES A PLAZO
 
+OPCIONES
+
+	CALL
+	PUT
+	PRIMA
+	TOMADOR
+	LANZADOR
+
+	4 perspectivas
+
 PAGARE BANCARIO
 
 RENTA VARIABLE
@@ -88,7 +118,15 @@ RENTA FIJA
 
 	se conocen las fechas en las que se sera devuelto el capital y el interes que genera
 
+SCALPING
+
+	tecnica: / estrategia utilizada para el corto plazo: aprovechar los movimientos de corto
+	plazo del movimientos de los activos
+
+
 SEGURO DE INVERSION
+
+SWAPS
 
 TITULOS PUBLICOS(BONOS)
 
@@ -101,6 +139,8 @@ TITULOS PUBLICOS(BONOS)
 	Los bonos pueden devolver el dinero invertido en cuotas llamadas AMORTIZACIONES
 	o en forma integra al vencimiento
 
+
+WARRANTS
 
 
 

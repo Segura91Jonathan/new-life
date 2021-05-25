@@ -30,7 +30,103 @@ apalancamiento:
 
 DEPOSITOS Y RETIROS
 
+GLOSARIO
+
+	time frame
+	setups
 ------------------------------------------------------------------------------------------------------------------------------
+20210525	(Marcello Arrambide Español) como empezar en el trading	   20200824
+
+	-ADQUIRIR CONOCIMIENTO
+		hay muchas formas diferentes de operar
+			sugerencia no mezclar(al no ver resultados inmediatos)
+			sugerencia: mentor
+
+		trabajar en la psicologia la mentalidad
+
+	-PLATAFORMA
+
+		MERCADOS
+
+			ACCIONES
+			FUTUROS
+				microfuturos
+			FOREX
+			CRIPTOS
+			OPCIONES BINARIAS
+			OPCIONES SOBRE ACCIONES
+			CFD´s
+
+		sugerencia (comenzar con mercados de acciones y futuros)
+
+		descargar: daytradingacademy.co/plataforma	(metatrader ) 
+		traded station
+		speedup trader
+
+
+FINES DE SEMANA LA BOLSA ESTA CERRADA
+
+
+------------------------------------------------------------------------------------------------------------------------------
+20210525	(yuri rabassa)	trading vs juego	20191128
+
+	esperanza matematica
+
+	como buen trader hay que enfrentarse al mercado con la probabilidad de nuestro lado
+
+	como medir las probabilidades del trading
+	
+	se investiga sobre datos historicos.
+
+	
+	conclusion : 	crear un sistema de trading aplicando todo lo aprendido antes de 
+			enfrentarse al mercado.
+
+------------------------------------------------------------------------------------------------------------------------------
+25/5/21		(WINPIPS) tipos de trading 	20160715
+
+largo plazo
+swing trading
+intra dia
+scalping
+
+Largo plazo
+	timeframe semanal o mensual 
+	operaciones + de 1 mes
+	desventajas: gran capital para que sea rentable muy a largo plazo
+
+Swing trading
+
+	timeframe 4 hs / diario 
+	operaciones duracion : 1 semana / 1 mes
+	no es necesario tanto capital para comenzar
+	las oportunidades son pocas: hay que estar atentos
+
+Traiding intradiario
+
+	timeframe: 1 hs/ 15 min 
+	advantages: cada dia hay oportunidades 
+	disadvantage: se dedica mas tiempo al seguimiento del grafico + estres
+
+Scalping
+	
+	timeframe 5 min / 1 min
+	advantages: se presetntan muchas oportunidades along the day
+	operaciones de entre pocos segundos a 10 min de duracion	
+
+
+
+
+conclusion : a menor timeframe la complejidad aumenta se complican los analisis se necesita
+	     mayor apalancamiento
+
+		a mas largo plazo menos estres pero mas capital mas necesario
+sugerencia: combinar intradia con swing trading
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 2021	giselle colasurdo
 
 	relacion entre el dolar y las tazas de interes	
@@ -60,10 +156,14 @@ DEPOSITOS Y RETIROS
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-IDEAS DE GRANDEZA
+IDEAS DE GRANDEZA/ PREGUNTAS
 
 	acciones de crecimiento:  como ver, como comprar, etc
 
 				empresas que cotisan en bolsa o empresas privadas
 
 	acciones de dividendos		
+
+	sobre que se puede hacer trading
+
+	como puedo hacer una investigacion para hacer trading ?
