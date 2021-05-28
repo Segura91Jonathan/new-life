@@ -31,6 +31,7 @@ git diff
 git fetch
 GIT IGNORE
 git config
+como hacer para pushear una rama de trabajo
 
 
 -------------------------------------------------------------------------------------------------------------------------------
@@ -43,6 +44,8 @@ git checkout -b branch_name :	crea la rama y cambia a esa posicion
 git branch -a:		nos muestra que ramas tenemos y sobre cual estamos 
 			posicionados
 git branch -d branch_name:	elimina esa rama
+
+		como hacer para pushear una rama de trabajo
 -------------------------------------------------------------------------------------------------------------------------------
 
 git clone link	: donde estemos posicionados clona la carpeta
