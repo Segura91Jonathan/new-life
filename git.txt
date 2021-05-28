@@ -16,17 +16,53 @@ BOTON / COMBINACION DE BOTONES
 boton tab	: autocompleta
 ctrl + l 	: limpia la pantalla
 
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+
 
 COMANDOS DE GIT
 
+proximo a estudiar ver diegocmartin.com/tutorial-git
+
+git add
+git commit -a
+git reset
+git diff
+git fetch
+GIT IGNORE
+git config
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+RAMAS
+
+git branch branch_name:	crea una rama con ese nombre
+git checkout branch_name:	cambia a la rama con ese nombre
+git checkout -b branch_name :	crea la rama y cambia a esa posicion
+git branch -a:		nos muestra que ramas tenemos y sobre cual estamos 
+			posicionados
+git branch -d branch_name:	elimina esa rama
+-------------------------------------------------------------------------------------------------------------------------------
 
 git clone link	: donde estemos posicionados clona la carpeta
 
 git add .			: añade todos los cambios
 git commit -m "mensaje"	: prepara los cambios para subir
+git push origin master	: pushea al repositorio. Ver como es el tema del usuario y las
+				llaves
 
+git status			: nos muestra como estan nuestros archivos
+
+git log			: nos muestra nuestro historial de commits
+
+		parametros:	-p :	cambios en el ultimo commit(TODOS)
+
+----------------------------------------------------------------------------------------------------------------------------
 
 UTILIDADES
+
+gitk	: interfaz grafica por defecto
 
 llave SSH
 
