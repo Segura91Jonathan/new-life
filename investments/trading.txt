@@ -52,6 +52,26 @@ GLOSARIO
 	time frame
 	setups
 ------------------------------------------------------------------------------------------------------------------------------
+20210604	INVERTIRENBOLSAWEB.NET	¿QUE HERRAMIENTAS NECESITO PARA	
+(web)					 HACER TRADING ?
+
+1- INTERMEDIARIO : BROKER
+
+	tipos de broker (segun en la forma en la que operan)
+
+	Market maker	arma un mercado interno para sus clientes
+			ventajas : liquidez y disponibilidad maxima para ejecutar ordenes
+			desventajas: conflicto de intereses
+			asegurarse de trabajar con brokers regulados
+
+	INTERMEDIARIO	envia nuestra orden al mercado buscando la contraparte 
+			buscando a los proveedores de liquidez
+			ventaja: no hay posibilidad de conflicto de intereses
+			desventaja: se pueden dar recotizaciones y/o demoras
+			en el mercado.
+------------------------------------------------------------------------------------------------------------------------------
+
+
 20210603	TRADING COMO EMPEZAR PRIMEROS PASOS	(oscar status)
 
 		no tener prisa, aprender de errores

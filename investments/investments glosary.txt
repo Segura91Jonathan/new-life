@@ -30,6 +30,8 @@ CEDEARES
 
 CEVAS
 
+CFD´s	(Contratos por diferencia)	DERIVADO
+
 CHEQUES DE PAGO DIFERIDO
 
 	herramienta de pago. Se emite y se estipula fecha de pago determinada. Esta la
