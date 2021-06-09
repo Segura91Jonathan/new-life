@@ -49,9 +49,98 @@ DEPOSITOS Y RETIROS
 
 GLOSARIO
 
-	time frame
+	
+	gaps
+	Herramientas de analisis tecnico
+	patrones de velas japonesas
 	setups
+	time frame
 ------------------------------------------------------------------------------------------------------------------------------
+20210609	GUIA DE TRADING		como aprender analisis tecnico paso a paso
+
+
+	ANALISIS TECNICO	
+
+		teoria de dow	-El precio lo descuenta todo: la info relevante del mercado
+							se encuentra en el precio
+				-los movimientos del precio no son totalmente aleatorios
+				-El QUE es mas importante que el PORQUE de dichos 
+				precios
+
+
+	analisis tecnico: 		toda la info de un activo esta en el precio
+	analisis fundamental:	centrado en la oferta y la demanda
+		
+
+	ANALISIS TECNICO: TOOLS
+
+		dominar unas pocas herramientas que se complementen. Dominarlas a
+		fondo
+
+		INDICADORES de trading
+
+			calculos que se muestran en los graficos, basados en precio,
+			volumen y otras variables
+
+			MEDIAS MOVILES
+			RSI
+			BANDAS DE BOLLINGUER
+			MACD
+			ATR
+			Estocastico			
+
+		PATRONES DE VELAS JAPONESAS
+		PATRONES GRAFICOS
+
+		HERRAMIENTAS DE DIBUJO
+
+
+		PLATAFORMAS PARA VISUALIZAR GRAFICOS
+
+			METATRADER 4	(forex)
+			TRADINGVIEW 	(cualquier activo financiero)
+	
+
+		APRENDIENDO TEORIA Y PRACTICA DEL ANALISIS TECNICO
+
+
+			LIBROS de analisis tecnico
+
+				analisis tecnico de los mercados financieros
+				el nuevo vivir del trading
+
+			PRACTICAR: fuentes 	tradingview
+						twitter
+						youtube
+
+			TERMINOLOGIA:
+
+				GAPS: zonas en las que la apertura se produce a un
+					precio mayor o menor que el de cierre
+
+					indican movimientos bruscos en el precio
+					por un imbalance entre compradores y 
+					vendedores
+
+------------------------------------------------------------------------------------------------------------------------------
+20210609	BOLSAEXPERTOS.COM	como empezar a hacer trading
+
+
+	1 BACKTESTING
+	2 SIMULACION
+	3 OPERATIVA CON DINERO REAL
+
+
+	conceptos basicos
+	analisis tecnico
+	analisis cuantitativo
+	psicologia del trading
+	trading
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 20210604	INVERTIRENBOLSAWEB.NET	¿QUE HERRAMIENTAS NECESITO PARA	
 (web)					 HACER TRADING ?
 
