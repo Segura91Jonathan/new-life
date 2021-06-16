@@ -1,0 +1,38 @@
+
+
+		LEARNING SQL
+
+CONSTRAINTS
+VISTAS
+INDICES
+STORED PROCEDURES
+FUNCIONES DE USUARIO
+TRIGGERS
+
+VISTAS
+
+	agarra un select  y la convierte de una tabla
+	asi si se hace un select con joins de 3 tablas ya 
+	queda como una sola tabla
+
+	las vistas no guardan datos 
+
+	exceptuando las VISTAS INDEXADAS
+
+	las ventajas son
+
+	seguridad, simplicidad y consistencia
+
+	SEGURIDAD:
+		mostras siempre determinados datos
+		a determinados usuarios
+
+	SIMPLICIDAD:
+	
+		se simplifica los querys complejos 
+		con muchos joins con el uso de vistas
+
+	CONSISTENCIA:
+
+		podes meter todos los calculos en 
+		las vistas en lugar de hacerlo afuera
