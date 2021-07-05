@@ -1,0 +1,22 @@
+Travel.state.gov
+
+
+VISAS PARA NO INMIGRANTES
+
+J	exchange visitor (au pair, profesor, scholar, teacher)
+B-1	Business visitor, athlete,  Domestic employee
+B-2	Tourism,vacation,Medical
+E-3	Australian professional speciality
+BCC	border Crossing card mexico
+CW-1	CNMI- only transitional worker
+D	Crewmember
+A	Diplomant or foreign goverment official
+G1- G5 , NATO : 	employee of a designated international organization or NATO
+A-2 NATO1-6:	foreign military personel stationed int usa 
+O	:	foreign national with extraordynary ability in sciences, arts,eductation etc
+H-1B1 - CHILE/Singapoure	FREE TRADE AGREEMENT chile / singapoore
+Q:		international cultural exchange visitor
+L:		Medical treatment, visitor
+R:		Religious worker
+F,M:		Student: academic, Vocational
+H-2A:		Temporary agricultural worker.
