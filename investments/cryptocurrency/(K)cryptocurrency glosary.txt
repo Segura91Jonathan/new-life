@@ -1,3 +1,33 @@
+SOPORTES Y RESISTENCIAS
+
+
+	son niveles psicologicos
+	niveles donde el precio se detiene y va en direccion contraria
+
+	SOPORTE: el precio frena su descenso y comienza a subir
+	RESISTENCIA: el precio deja de subir para comenzar a bajar.
+
+	TIPOS: 	niveles fijos
+
+			para identificar:	niveles psicologicos del precio
+					maximos y minimos anuales
+					maximos y minimos de velas
+					apertura y cierre de velas
+			
+		niveles dinamicos
+
+			medias moviles
+			sar parabolico
+			canal admiral keltner
+			
+			
+		niveles semi-dinamicos
+	
+			niveles de fibonacci
+			pivot points	
+			
+
+	RUPTURA DE SOPORTES Y RESISTENCIA
 
 
 ARBITRAJE DE CRIPTOMONEDAS / movimientos muy grandes en el pais
@@ -38,3 +68,9 @@ FEATURES:(bitcoin)
 .En lugar de exchange y banco tradicional a ATM
 	traer de forma mesurada a travez de P2P, financiera o de una persona que quiere
 	comprar cripto
+
+
+
+
+
+METRA TRADER
