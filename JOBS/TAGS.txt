@@ -1,5 +1,7 @@
 	soporte tecnico nivel 1
 
+
+MDA
 support
 soporte
 tecnico
@@ -26,10 +28,27 @@ Segura Jonathan.
 
 
 
+Buenas tardes.
+
+Me llamo Jonathan Segura y me estoy cursando materias de 3ro y 4to en ingenieria en sistemas en la UTN.
+
+Quisiera saber mas de la propuesta, por lo que dejo adjunto mi curriculum y quedo a su disposicion.
+
+Saludos cordiales.
+
+Segura Jonathan
+
+
 - Atención y asesoramiento al cliente en cuanto a productos a la venta.
 - Resolución de incidentes técnicos de SW y HW.
 - Revisión de equipos tecnológicos y aprobación de cambios.
 - Utilización de sistemas de administración de ventas “GENESIS”
+
+
+
+
+
+
 
 
 
